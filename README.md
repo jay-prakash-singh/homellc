@@ -5,8 +5,8 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---Homellc Assessment.ipny<br>
             
 
-**HomeLLC Assessment.HTML** - This consists of the HTML file of the jupyter notebook with all the outputs.<br>
-**src:** Contained within is the Python script housing the meticulously crafted code, representing a comprehensive and integral component of the project.<br>
+**HomeLLC Assessment.HTML** - This consists of the HTML file of the jupyter notebook with all the outputs.<br><br>
+**src:** Contained within is the Python script housing the meticulously crafted code, representing a comprehensive and integral component of the project.<br><br>
 **Files:** This directory encompasses the entirety of the acquired data crucial for analysis and machine learning model development. Notably, the pivotal dataset 'HOMELLC.xlsx' consolidates all pertinent information utilized throughout the analytical and modeling phases.
 The files are:<br>
 
