@@ -1,4 +1,4 @@
-Files:
+**Files:**
 This directory encompasses the entirety of the acquired data crucial for analysis and machine learning model development. Notably, the pivotal dataset 'HOMELLC.xlsx' consolidates all pertinent information utilized throughout the analytical and modeling phases.
 The files are:
 
@@ -55,3 +55,4 @@ The mean price at which houses are sold.
 
 ### Home price INDEX: 
 An index that measures the relative changes in residential property prices over time.
+
