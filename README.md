@@ -1,14 +1,14 @@
 ---homellc<br>
-      |---HomeLLC Assessment.HTML
-      |---files
-      |---src
-            |---Homellc Assessment.ipny
+      |---HomeLLC Assessment.HTML<br>
+      |---files<br>
+      |---src<br>
+            |---Homellc Assessment.ipny<br>
             
 
-**HomeLLC Assessment.HTML** - This consists of the HTML file of the jupyter notebook with all the outputs.
-**src:** Contained within is the Python script housing the meticulously crafted code, representing a comprehensive and integral component of the project.
+**HomeLLC Assessment.HTML** - This consists of the HTML file of the jupyter notebook with all the outputs.<br>
+**src:** Contained within is the Python script housing the meticulously crafted code, representing a comprehensive and integral component of the project.<br>
 **Files:** This directory encompasses the entirety of the acquired data crucial for analysis and machine learning model development. Notably, the pivotal dataset 'HOMELLC.xlsx' consolidates all pertinent information utilized throughout the analytical and modeling phases.
-The files are:
+The files are:<br>
 
             Interest_rates: The real interest rate refers to the nominal interest rate adjusted for inflation. In other words, it represents the actual purchasing power of interest earned or paid on an investment or loan. The real interest rate is crucial for assessing the true cost of borrowing or the real return on an investment.
             Averagehourlyearning-Construction: The average hourly earnings for workers in the construction industry.
